@@ -1,7 +1,7 @@
 # Thesis
 Construction PhotoTrap on Raspberry Pi.
 # Important Information
-There is a Summary from my thesis on South Bohemia Univerzity in Czech Rep. It is a little guide for those who likes Raspberry Pi projects. 
+There is a Summary from my thesis on University of South Bohemia in Czech Republik. All hardware was provided by University. It is a little guide for those who likes Raspberry Pi projects. 
 
 In this thesis i used three OS Raspbian, Ubuntu Mate and Fedberry.
 
@@ -24,3 +24,9 @@ Actuall version of working system is 16.04. The installation obtains GNU like Ra
 ###FedBerry
 
 I used quide from GitHub [Fedberry](https://github.com/fedberry/fedberry) repository. 
+
+
+##Summary
+
+PhotoTrap was tested on every OS. Tested was how far away can be Raspberry from Active Point. And how often get some errors, 
+failure due to overloading. At the end of testing i summarized pros and cons. And the best system for this project is Raspbian (wheezy), cause of his popularity, great comunity, often updates. The main attribute is higher swiftness then other systems in GUI or in terminal. 
