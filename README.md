@@ -1,4 +1,4 @@
-# Thesis
+# Thesis  ![jculogo](https://github.com/DanielSvab/Thesis/blob/master/jihoceska_univerzita_logo-01.jpg)
 Construction PhotoTrap on Raspberry Pi.
 # Important Information
 There is a Summary from my thesis on *University of South Bohemia in Czech Republic*. All hardware was provided by University. It is a little guide for those who likes Raspberry Pi projects. 
