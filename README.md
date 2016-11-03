@@ -24,7 +24,7 @@ Actuall version of working system is 16.04. The installation obtains GNU like Ra
 ###FedBerry
 
 I used quide from GitHub [Fedberry](https://github.com/fedberry/fedberry) repository. 
-
+You can choose witch type of installation you want.
 
 ##Summary
 
