@@ -1,6 +1,6 @@
 ## Raspbian
 
-I used Raspbian version 7 type Wheezy. The system was pre installed on card so i didnt have to download it from Raspbian website.
+I used Raspbian version 7 type Wheezy with kernel xxxx. The system was pre installed on card so i didnt have to download it from Raspbian website.
 You will need keyboard, hdmi cabel, monitor. 
 
 ### First boot
