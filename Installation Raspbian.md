@@ -10,6 +10,14 @@ There is predefined user **pi** with password **raspberry**.
 
 Commands are same like in Debian or Ubuntu. 
 
-
 Basic command for update, upgrade is 
 **sudo apt-get update; sudo apt-get upgrade** 
+
+Other important commands for my thesis are:
+
+```python
+sudo apt-get install python-picamera
+sudo raspi-config
+```
+First is needed for python library picamera.
+Second is for enabling Pi Camera in Raspberry config.
