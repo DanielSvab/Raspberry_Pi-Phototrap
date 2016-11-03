@@ -31,3 +31,5 @@ You can choose witch type of installation you want.
 
 PhotoTrap was tested on every OS. Tested was how far away can be Raspberry from Active Point. And how often get some errors, 
 failure due to overloading. At the end of testing i summarized pros and cons. And the best system for this project is Raspbian (wheezy), cause of his popularity, great comunity, often updates. The main attribute is higher swiftness then other systems in GUI or in terminal. 
+
+You can see my thesis [here](https://github.com/DanielSvab/Thesis/blob/master/Daniel_%C5%A0v%C3%A1b.pdf)
