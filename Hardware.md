@@ -11,4 +11,7 @@
 | Case for Pi Camera| 81,00 | http://www.ebay.com/itm/Raspberry-Pi-Camera-Case-Enclosure-Tilting-/122193541144?var=&hash=item1c734d7818:m:mtbeNElnk3myejJSJZR-az |
 | Case for PIR | 87,00 | http://www.ebay.com/itm/HC-SR501-Acrylic-Sensor-Enclosure-Box-Mount-Case-Casing-for-Raspberry-Pi-Arduino-/122193541594?var=&hash=item1c734d79da:m:mmK-9IlA8DB01UV--xNRba |
 | **Total**: | *2 694 CZK*   | 
+> These price are only in Czech Crown, from czech e-shop.
+
+
 I used three micro card because i didnt want delete any data from systems. And its easier swaping the cards with system then reinstallating each system.
