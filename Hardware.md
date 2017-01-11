@@ -15,3 +15,6 @@
 
 
 I used three micro card because i didnt want delete any data from systems. And its easier swaping the cards with system then reinstallating each system.
+
+Circuit in Fritzing
+![Image of Yaktocat](https://github.com/DanielSvab/Raspberry_Pi-Phototrap.wiki.git)
